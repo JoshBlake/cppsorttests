@@ -12,6 +12,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CppSortsTests.cpp" />
+    <ClCompile Include="StringManipTests.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CppSorts\CppSorts.vcxproj">
